@@ -1,0 +1,62 @@
+﻿  main.cpp
+main.cpp(188): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(206): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(222): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(238): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(253): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(288): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(305): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(321): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(337): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(352): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(367): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(382): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(397): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(412): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(427): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(459): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cpp(598): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(669): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(701): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(741): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(742): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(743): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(744): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(745): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(748): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(749): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(750): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(751): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(754): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(755): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(773): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(1202): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(1249): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(1259): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(1275): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(1384): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(1325): warning C4101: 'stopnie': unreferenced local variable
+main.cpp(1410): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(1826): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(1884): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(1893): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(1935): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(2374): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(2495): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+main.cpp(2525): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+main.cpp(2637): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(2638): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(2732): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(2733): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(2829): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(2830): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(2926): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(2927): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(3044): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(3045): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(3163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(3164): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 1612 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  shapeContext1.vcxproj -> C:\Users\Bartek\documents\visual studio 2015\Projects\shapeContext1\Release\shapeContext1.exe

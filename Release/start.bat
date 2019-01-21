@@ -1,0 +1,1 @@
+start shapeContext1.exe "db1" "hog" "hogrelease.txt" 

@@ -1,0 +1,52 @@
+numer iteracji - 1
+indeks sprawdzanej pozy - 1
+iloœæ danych testowych - 5
+KNN
+P1 - 5
+P2 - 0
+P3 - 0
+P4 - 0
+P5 - 0
+skutecznoœæ KNN: 1
+ANN
+P1 - 5
+P2 - 0
+P3 - 0
+P4 - 0
+P5 - 0
+skutecznoœæ ANN: 1
+SVM
+P1 - 5
+P2 - 0
+P3 - 0
+P4 - 0
+P5 - 0
+skutecznoœæ SVM: 1
+
+
+numer iteracji - 1
+indeks sprawdzanej pozy - 2
+iloœæ danych testowych - 7
+KNN
+P1 - 0
+P2 - 7
+P3 - 0
+P4 - 0
+P5 - 0
+skutecznoœæ KNN: 1
+ANN
+P1 - 1
+P2 - 6
+P3 - 0
+P4 - 0
+P5 - 0
+skutecznoœæ ANN: 0.857143
+SVM
+P1 - 0
+P2 - 7
+P3 - 0
+P4 - 0
+P5 - 0
+skutecznoœæ SVM: 1
+
+
